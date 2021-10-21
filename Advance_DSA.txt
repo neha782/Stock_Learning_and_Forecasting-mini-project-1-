@@ -1,0 +1,22 @@
+leetcode and Codeforsis
+range-> data size
+
+#Approaches:-
+
+Brute force -> time and space efficiency do not include in this approch. 
+
+double myPow(double x, int n){
+
+    if(n<0){
+        x=i/x;
+        n=-n;
+    }
+    return ans;
+    for(i=0; i<n; i++){
+        ans=ans*x;
+        return ans;
+    }
+
+}
+
+

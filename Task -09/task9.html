@@ -1,0 +1,44 @@
+<head>
+	<link rel="stylesheet" href="style.css" />
+</head>
+
+<script>
+
+function rqst(){
+input = document.getElementById("input1").value
+pod   = document.getElementById("name").value
+port  = document.getElementById("port").value
+replica   = document.getElementById("replica").value
+
+
+
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "http://192.168.99.102/cgi-bin/task9.py?x=" + input +"&pod=" +pod + "&port=" + port +"&replica=" +replica,true);
+xhr.send();
+xhr.onload = function(){	
+	var output = xhr.responseText;
+	document.getElementById('id1').innerHTML = output;
+}
+
+
+
+}
+
+</script>
+<body>
+<pre>
+<div class="box" id="id1"> 
+<img src="kube.png" class="logo" height=50px; width=50px;>
+<h2>Kubernetes Terminal  </h2>
+<input class="in" id="input1" type="text" placeholder="Enter command"/>
+<input class="in" name="name" id="name" type="text" placeholder= "Enter Name" /> 
+<input class="in" name="port" id="port" type="text" placeholder="Enter Port"/>
+<input class="in" name="replica" id ="replica" type="text" placeholder="Enter no replicas"/>
+<button onclick="rqst()" class="btn" >Run Command</button> 
+</br>
+<a href="https://linkedin.com/in/rajneesh-pratap-singh/" class="a">ping developer</a>
+
+
+</div>
+</pre>
+</body>

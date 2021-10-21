@@ -1,0 +1,257 @@
+Summer Program Topics List:
+
+Session-1: Introduction of summer program
+
+Session-2 :
+Basics of python and linux
+Physical hardwares
+types of OS
+
+Session-3:
+Intro to ML
+data analysis
+pattern or model
+confidence score
+3 steps of ML
+
+Session-4 : 
+how to retreive particular column by numpy array
+reshaping of array using numpy
+ML core concepts-
+weight, bias, & target 
+corelation concept
+Linear regression
+dataset 
+feature elimination and feature selection
+simple linear regression model
+
+Session-5:
+Linear regression algo
+outliers
+LR model for salary dataset
+Prediction/best fil line
+
+Session-6:
+Multi-linear regression
+about data pre-processing
+Train & test split concept 
+MLR model 50-startup dataset
+label encoding 
+One Hot Encoding
+Visualization of data :Graphs
+
+Session-7;
+Dummy variables 
+Categorical variables 
+One hot encoding
+Dummy variable trap
+
+Session-8:
+Computer Vision
+Image processing concept
+about open-cv, &cv2 module in python 
+
+
+Session-9:
+Classification- binary, multi
+logistic regression algo on titanic dataset
+null value concept
+data imputation
+
+Session-10:CV
+creating own image
+analysis of image:2d/3d array image
+live streaming video 
+
+Session-11: ML
+Mean absolute error
+Mean square error
+sigmoid function
+Confusion matrics: type errors
+running a GUI application inside docker
+
+Session-12:CV
+face detection
+Haar cascade module
+
+Session-13:DL
+Neural Network Introduction
+ANN(Artificial NN)
+Keras intro
+Sequential function
+Dense layer
+
+Session-14:NN
+Back propagation
+Feed Forward
+Optimizer
+NN for Diabetes dataset
+Crossentropy function 
+
+Session-16:
+Docker
+Creating Docker custom image
+NN for Churn_modelling dataset
+
+Session-17:CNN
+Pixels
+Convolution concept
+Dimension reduction
+Feature learning
+Edge detection
+stride, filters
+code for convolution layer
+Pooling
+
+Session-18:ML/DL
+Gradient Descent: positive, negative
+How gradient descent help to select best weight for model
+Adaptive learning concept
+Hyper parameter
+
+Session-19:Flutter
+Flutter intro and downloading & installing flutter
+AVD
+Hot Reload concept
+Basics of Dart
+Positoinal argument
+Named argument
+
+Session-20:CNN
+Stride working concept
+Misc in-built image provider
+CNN model
+
+Session-21:ML
+matrics parameter
+Learning Rate concept
+Epochs
+Adaptive Learning
+Creating docker image to run particular program(per application basis OS)
+
+Session-22:CNN
+Classification model for image dataset
+training model for particular feature like face
+ImageDataGenerator function
+class_indices function
+CNN model for cat&dog dataset
+
+Session-23:ML
+Jenkins 
+Docker: difference betwwen ENTRYPOINT and CMD
+How to make an automation program with the help of docker
+
+Session-24:
+Face recognization program
+Contrib library
+
+Flutter:some basic functions or widgets, structure of Flutter program
+canvas,build function, material function
+Widget concept, Text function
+
+Session-27:DL
+Multi classification
+Multi classification model for Alcohol dataset
+Seaborn library
+Softmax function
+
+Without CNN creating Model for Image using NN
+Handwritten letter Recognization
+mnist dataset for letters
+
+Session-28: DL
+data pre proceesing on the mnist dataset,& trining 
+
+Flutter:
+Scaffold function
+MaterialApp() function
+Creating button in flutter
+difference between text and print funtion
+
+Session-29:ML
+CNN architectures
+LeNet architecture implementation
+
+Flutter:
+Creating a simple app usiing Scaffold and MaterialApp function
+Scaffold childs:app bar, body, floatingActionButton
+use of container,column and row widget
+ FloatingActionButton
+
+Session:30:CNN
+ImageNet, Cifar10 image dataset 
+AlexNet Architecture
+CNN model for mnist fashion dataset
+
+Flutter:
+Events in flutter
+Inkwell widget
+Lambda/anonymous function
+GestureDetector
+snackbar
+
+Session-31:DEvOps
+launching instance on aws 
+running web services in Docker in AWS instance 
+PAting, Nating
+creating S3 bucket in AWS
+
+Session-32:DevOps
+Kubernetes intro
+creating Load balancer, replica
+
+Session-33:DevOps
+Jenkins
+creating jobs in jenkins
+
+Session-34:RNN(Recurrent NN)
+RNN intro 
+Memory cell in RNN
+Creating dummy dataset for RNN 
+
+Session-35:RNN
+Time series data
+data pre processing in RNN
+Simple RNN model
+tanh function(hyperbolic tangent)
+
+Session-36:Flutter
+Integration of Flutter with Web server
+
+Session-37:RNN
+recursive nature of RNN model 
+RNN represantation
+Scaling/Normalizing of data 
+
+Session-38:RNN
+advance RNN
+Long short-term memory RNN
+Vanashing gradient
+LSTM RNN model
+
+Session-39:NLP
+intro
+Libraries for NLP
+Spacy library
+en_core_web_sm model of NLP for English language
+tokens 
+some usecases of spacy:
+detecting parts of speech,
+negative dependencies
+getting base form of verb
+
+Session-40:NLP
+Tokenization
+removing of stoping words
+some usecases of spacy:
+email id recognization(email tokenization)
+number tokens,
+detection of abbreviation
+Name entity (understanding names in sentence or para)
+Noun chunks(like phrases)
+Stemming/Lemmatization concept(converting into base word)
+Expore some functions of nltk library for stemming
+reasons for not using nltk for stemming
+
+Session-41:NLP
+integration of NLP with python menu based program

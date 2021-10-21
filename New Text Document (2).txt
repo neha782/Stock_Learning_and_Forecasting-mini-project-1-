@@ -1,0 +1,23 @@
+Team name:
+
+Documentation Presented by:
+Team NPR
+Gla University 
+
+
+Group membres:
+
+
+Idea Titile: OCR on Hindi handwritten text
+
+
+#Idea-Outcome
+->it can detect the hindi handwritten text in image on the accuracy about 80%.
+
+#Approach:
+->Collect the image dataset of hindi handwritten text
+->ML using Python.
+->Apply Neural Network algorithms on the dataset and train the model.
+->Data pre-processing
+->Check the accuracy of model
+
